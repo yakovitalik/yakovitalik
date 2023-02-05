@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, my name is Vitaliy Yakovlev and I'm free developer.
+
+I live in Belgorod, Russia.
+
+📭 **How to reach me**: Telegram **@yakovitalik**, [LinkedIn](https://www.linkedin.com/in/yakovitalik/)
+
 <!--
 **yakovitalik/yakovitalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
