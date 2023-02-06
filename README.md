@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Vitaliy Yakovlev and I'm free developer.
+Hi, my name is Vitaliy Yakovlev and I'm free Java developer.
 
 I live in Belgorod, Russia.
 
