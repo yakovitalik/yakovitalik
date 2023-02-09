@@ -1,10 +1,18 @@
-### Hi there 👋
-
-Hi, my name is Vitaliy Yakovlev and I'm free Java developer.
-
+## Hi there 👋
+My name is Vitaliy Yakovlev and I'm free Java developer.
 I live in Belgorod, Russia.
 
-📭 **How to reach me**: Telegram **@yakovitalik**, [LinkedIn](https://www.linkedin.com/in/yakovitalik/)
+The stack I'm working on:
+- JavaSE, JavaEE(Servlets, JSP);
+- Spring Framework, Spring MVC, Spring Boot;
+- JDBC, JDBC Template, Hibernate ORM, Spring Data JPA;
+- SQL(PostgreSQL, MySQL);
+- Java Desktop(Swing, AWT);
+- HTML, CSS;
+- Thymeleaf;
+
+📭 **How to reach me**: Telegram **@yakovitalik**, 
+[LinkedIn](https://www.linkedin.com/in/yakovitalik/), [vk.com](https://vk.com/yakovitalik)
 
 <!--
 **yakovitalik/yakovitalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
