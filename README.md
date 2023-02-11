@@ -10,6 +10,7 @@ The stack I'm working on:
 - Java Desktop(Swing, AWT);
 - HTML, CSS;
 - Thymeleaf;
+- Apache Tomcat;
 
 📭 **How to reach me**: Telegram **@yakovitalik**, 
 [LinkedIn](https://www.linkedin.com/in/yakovitalik/), [vk.com](https://vk.com/yakovitalik)
