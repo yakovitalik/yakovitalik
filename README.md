@@ -6,11 +6,14 @@ The stack I'm working on:
 - Spring Framework, Spring MVC, Spring Boot, Spring Security;
 - JDBC, JDBC Template, Hibernate ORM, Spring Data JPA;
 - SQL(PostgreSQL, MySQL);
-- JavaSE, JavaEE(Servlets, JSP);
-- Java Desktop(Swing, AWT);
-- HTML, CSS, JavaScript;
+- JavaSE, JavaEE;
 - Thymeleaf;
 - Apache Tomcat;
+- Java Desktop(Swing, AWT);
+- HTML, CSS, BootStrap;
+- JavaScript, TypeScript;
+- Angular;
+
 
 📭 **How to reach me**: Telegram **@yakovitalik**, 
 [LinkedIn](https://www.linkedin.com/in/yakovitalik/), [vk.com](https://vk.com/yakovitalik)
