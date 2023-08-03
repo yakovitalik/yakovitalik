@@ -4,7 +4,7 @@ I live in Belgorod, Russia.
 
 The stack I'm working on:
 - Spring Framework, Spring MVC, Spring Boot, Spring Security;
-- JDBC, JDBC Template, Hibernate ORM, Spring Data JPA;
+- JDBC, Hibernate, Spring Data JPA;
 - SQL(PostgreSQL, MySQL);
 - JavaSE, JavaEE;
 - Thymeleaf;
