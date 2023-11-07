@@ -3,16 +3,15 @@ My name is Vitaliy Yakovlev and I'm free Java developer.
 I live in Belgorod, Russia.
 
 The stack I'm working on:
+- Java;
 - Spring Framework, Spring MVC, Spring Boot, Spring Security;
-- JDBC, Hibernate, Spring Data JPA;
+- JDBC, Hibernate, Spring Data;
 - SQL(PostgreSQL, MySQL);
-- JavaSE, JavaEE;
 - Thymeleaf;
-- Apache Tomcat;
 - Java Desktop(Swing, AWT);
 - HTML, CSS, BootStrap;
-- JavaScript, TypeScript;
-- Angular;
+- JavaScript, TypeScript, Angular, React;
+
 
 
 📭 **How to reach me**: Telegram **@yakovitalik**, 
