@@ -4,13 +4,11 @@ My name is Vitaliy Yakovlev, and I'm a software ingener.
 I live in Belgorod, Russia. 
 
 My Stack:
-- Java(Spring Framework, Spring MVC, Spring Boot, JDBC, Hibernate, Spring Data, Spring Security);
+- Java(Spring, JDBC, Hibernate, Spring Data, Security);
 - SQL(PostgreSQL, MySQL);
 - Java Desktop(Swing);
-- PHP;
 - Docker;
-- HTML, CSS, Thymeleaf, BootStrap;
-- JavaScript, TypeScript, Angular, React;
+- JavaScript, React;
 
 
 📭 **Contact me**: Telegram **@yakovitalik**, 
