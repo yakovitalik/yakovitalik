@@ -1,5 +1,5 @@
 ## Hello! 👋
-My name is Vitaliy Yakovlev, and I'm a Java backend ingener.
+My name is Vitaliy Yakovlev, and I'm a Java software developer.
 
 I live in Belgorod, Russia. 
 
