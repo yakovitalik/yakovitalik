@@ -8,7 +8,7 @@ My Stack:
 - Kotlin;
 
 
-📭 **Contact me**: Telegram @yakovitalik, 
+📭 **Contact me**: Telegram **yakovitalik**, 
 [LinkedIn](https://www.linkedin.com/in/yakovitalik/)
 
 <!--
