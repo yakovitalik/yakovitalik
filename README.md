@@ -1,14 +1,11 @@
 ## Hello! 👋
-My name is Vitaliy Yakovlev, and I'm a software ingener.
+My name is Vitaliy Yakovlev, and I'm a Java backend ingener.
 
 I live in Belgorod, Russia. 
 
 My Stack:
-- Java(Spring, JDBC, Hibernate, Spring Data, Security);
-- SQL(PostgreSQL, MySQL);
-- Java Desktop(Swing);
-- Docker;
-- JavaScript, React;
+- Java (Spring);
+- Kotlin;
 
 
 📭 **Contact me**: Telegram **@yakovitalik**, 
