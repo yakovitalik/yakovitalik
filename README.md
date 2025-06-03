@@ -12,7 +12,7 @@ My Stack:
 
 
 📭 **Contact me**: Telegram **@yakovitalik**, 
-[LinkedIn](https://www.linkedin.com/in/yakovitalik/), [vk.com](https://vk.com/yakovitalik)
+[LinkedIn](https://www.linkedin.com/in/yakovitalik/)
 
 <!--
 **yakovitalik/yakovitalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
