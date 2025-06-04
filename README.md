@@ -1,8 +1,6 @@
 ## Hello! 👋
 My name is Vitaliy Yakovlev, and I'm a Java software developer.
 
-I live in Belgorod, Russia. 
-
 My Stack:
 - Java (Spring);
 - Kotlin;
