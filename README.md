@@ -6,7 +6,7 @@ My Stack:
 - Kotlin;
 
 
-📭 **Contact me**: Telegram **yakovitalik**, 
+📭 **Contact me**: Telegram **vintyak**, 
 [LinkedIn](https://www.linkedin.com/in/yakovitalik/)
 
 <!--
